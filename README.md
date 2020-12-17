@@ -1,2 +1,2 @@
-# afeezraheem.github.io
-Repository for my personal website
+# Portfolio:
+Repository for my personal website.
